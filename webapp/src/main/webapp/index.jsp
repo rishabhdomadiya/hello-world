@@ -1,2 +1,2 @@
-<h1> Hello, Synths !!! </h1>
+<h1> Hello, Synth Lovers !!! </h1>
 
